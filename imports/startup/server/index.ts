@@ -1,0 +1,5 @@
+import './accounts'
+import './browser-policy'
+import './fixtures'
+import './register-api'
+import './routes/router'

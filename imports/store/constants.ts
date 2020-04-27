@@ -1,0 +1,3 @@
+export const OPEN_ALERT = 'OPEN_ALERT'
+export const CLOSE_ALERT = 'CLOSE_ALERT'
+export const INIT_INTEGRATIONS = 'INIT_INTEGRATIONS'
